@@ -19,9 +19,9 @@ export const STATS = [
 
 export const FEATURES = [
   { icon: "🏥", color: "#0057ff", bg: "#e0f0ff", num: "210+", label: "ULBs", title: "Public Health", desc: "Digitising health infrastructure across 210+ Urban Local Bodies to enable quality care delivery." },
-  { icon: "💰", color: "#059669", bg: "#e0f5f0", num: "2Bn", label: "", title: "Public Finance", desc: "Enabling transparent financial management for billions of government transactions annually." },
+  { icon: "🪙", color: "#059669", bg: "#e0f5f0", num: "2Bn", label: "", title: "Public Finance", desc: "Enabling transparent financial management for billions of government transactions annually." },
   { icon: "🏛️", color: "#7c3aed", bg: "#f3e8ff", num: "500+", label: "Cities", title: "Local Governance", desc: "Empowering municipalities with digital tools for service delivery and citizen engagement." },
-  { icon: "💧", color: "#0284c7", bg: "#e0f2fe", num: "30+", label: "States", title: "Water & Sanitation", desc: "Transforming water utility management with smart tracking, billing and service platforms." },
+  { icon: "🌊", color: "#0284c7", bg: "#e0f2fe", num: "30+", label: "States", title: "Water & Sanitation", desc: "Transforming water utility management with smart tracking, billing and service platforms." },
 ];
 
 export const CTA_CARDS = [
